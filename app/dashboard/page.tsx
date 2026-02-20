@@ -109,7 +109,7 @@ export default function DashboardPage() {
           <div>
             <h1 className="text-4xl font-bold mb-2">
               Mission Control
-              <span className="text-neon-blue ml-2">🚀</span>
+              <span className="text-neon-blue ml-2">&#x1F680;</span>
             </h1>
             <p className="text-gray-400">Welcome back, {user?.full_name || 'Team Member'}</p>
           </div>

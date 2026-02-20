@@ -9,11 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "next": "^14.0.0",
-    "@supabase/supabase-js": "^2.38.0",
-    "zustand": "^4.4.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "next": "^14.2.0",
+    "@supabase/supabase-js": "^2.43.0",
+    "@supabase/postgrest-js": "^1.15.0",
+    "@supabase/storage-js": "^2.6.0",
+    "zustand": "^4.5.0",
     "framer-motion": "^10.16.0",
     "lucide-react": "^0.263.0",
     "date-fns": "^2.30.0",

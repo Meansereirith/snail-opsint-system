@@ -76,7 +76,11 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  @apply bg-dark-600 rounded-full hover:bg-dark-500;
+  @apply bg-dark-600 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-dark-700;
 }
 
 /* Animations */
